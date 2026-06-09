@@ -154,10 +154,3 @@ implementation uses 0-indexed levels, subtract 1 from each `f*` column.
 These files were generated from a deterministic synthetic DGP and
 contain no real user data. Anyone is free to use them for benchmark
 comparisons, blog posts, papers, or teaching.
-
-## Companion paper
-
-The DGP family and the hierarchical-likelihood (HL) baseline used in
-the companion paper "Self-Regularization of Embedding Layers in Deep
-Neural Networks via Hierarchical Likelihood" are documented in the
-research repository (private; will be linked when public).
