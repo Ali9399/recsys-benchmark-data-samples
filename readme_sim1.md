@@ -95,8 +95,7 @@ across the full 220,000 rows are:
 | seed | 42 |
 
 The DGP was generated with a single seed (42) so the dataset is
-reproducible. The full data-generating function is in
-[`_generate_sim1.py`](_generate_sim1.py) in this directory.
+reproducible.
 
 ## Suggested evaluation protocol
 
